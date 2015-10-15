@@ -1,0 +1,295 @@
+header{
+	width: 100%;
+	height: 130px;
+}
+
+.escuela{
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+ div.escuela a{
+	text-decoration: none;
+	color: #192951;
+}
+
+#boton{
+	padding: 0px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#boton li{
+	display: inline;
+}
+
+#boton li a{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 30px;
+	color: #192951;
+}
+
+#boton li a:hover{
+	color: #99B2E6;
+}
+
+
+.seccion1{
+	height: 380px;
+	background-image: url("../img/nosotros.jpg");
+	background-repeat: no-repeat;
+	background-size: 120%;
+	background-position: 60%;
+
+}
+
+.nosotros{
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	margin-bottom: 10px;
+
+}
+
+.tnosotros{
+	text-align: center;
+	font-size: 13px;
+	color: #C0C2C8;
+}
+
+.w{
+	margin: 0 auto;
+	margin-top: 100px;
+	background-color: black;
+	opacity: 0.5;
+	width: 70%;
+	padding: 40px 5px;
+}
+
+.seccion2{
+	width: 100%;
+	height: 350px;
+	background-image: url("../img/cubes.png");
+	background-repeat: repeat;
+}
+
+.pilar{
+	border-bottom: 1px solid #C0C2C8;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding: 10px;
+	font-size: 20px;
+	color: #C0C2C8;
+	text-align: center;
+}
+
+.seccion3{
+	width: 100%;
+	height: 130px;
+	padding-bottom: 0px;
+}
+
+.instructores{
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	font-weight: bold;
+	margin-top: 90px;
+}
+
+.seccion4{
+	width: 100%;
+	height: 600px;
+}
+
+#medidap{
+	width: 210px;
+	height: 170px;
+	overflow: hidden;
+	float: left;
+
+}
+
+.medidap{
+	width: 115%;
+	height: 115%;
+	margin: 0px 0px -200px -30px;
+}
+
+.b{
+	margin-top: 50px;
+}
+
+.descripcion1{
+	font-weight: bold;
+	padding: 5px 0;
+}
+
+.descripcion2{
+	padding: 5px 0;
+}
+
+.seccion5{
+	width: 100%;
+	height: 200px;
+	background-image: url("../img/cubes.png");
+	background-repeat: repeat;
+}
+
+.frase{
+	margin-top: 65px;
+ 	text-align: center;
+ 	font-size: 33px;
+ 	font-style: italic;
+}
+
+.seccion6{
+	width: 100%;
+	height: 500px;
+	background-image: url("../img/shoes.jpg");
+	background-repeat: no-repeat;
+	background-position: 90%; 
+}
+
+.formulariot{
+	width: 360px;
+	margin-top: 40px;
+	margin-bottom: 2%;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	color: #192951;	
+}
+
+.cajac{
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+
+.cajac2{
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+
+.input{
+	height: 40px;
+}
+
+.trans{
+	background: transparent;
+}
+
+#submit_button{
+	text-decoration: none;
+	font-size: 22px;
+	color: #C0C2C8;
+	padding: 15px 197px;
+	background-color: #00194B;
+	border-radius: 4px;
+
+}
+
+footer{
+	width: 100%;
+	height: 80px;
+	background-color: #00194B; 
+	border-bottom: 7px solid black;
+}
+
+.copy{
+	font-size: 15px;
+	padding: 35px 50px;
+	color: #C0C2C8;
+	float: left;
+	position: relative;
+	right: 200px;
+}
+
+.seccion6{
+	width: 100%;
+	height: 450px;
+	background-image: url("../img/shoes.jpg");
+	background-repeat: no-repeat;
+	background-position: 90%; 
+}
+
+.formulariot{
+	width: 360px;
+	margin-top: 40px;
+	margin-bottom: 2%;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	color: #192951;	
+}
+
+.cajac{
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+
+.cajac2{
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+
+.input{
+	height: 40px;
+}
+
+.trans{
+	background: transparent;
+}
+
+textarea, input{
+	background-image: url("../img/email.png") no-repeat
+	scroll 0 0 transparent;
+	padding: 5px 5px 5px 25px;
+	width: 450px;
+	margin-bottom: 1px;
+}
+
+
+
+#submit_button{
+	text-decoration: none;
+	font-size: 22px;
+	color: #C0C2C8;
+	padding: 15px 173px;
+	background-color: #00194B;
+	border-radius: 4px;
+
+}
+
+footer{
+	width: 100%;
+	height: 80px;
+	background-color: #00194B; 
+	border-bottom: 7px solid black;
+}
+
+.copy{
+	font-size: 15px;
+	padding: 35px 50px;
+	color: #C0C2C8;
+	float: left;
+	position: relative;
+	right: 200px;
+}
+

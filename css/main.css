@@ -1,0 +1,265 @@
+header{
+	width: 100%;
+	height: 130px;
+}
+
+.escuela{
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+ div.escuela a{
+	text-decoration: none;
+	color: #192951;
+}
+
+#boton{
+	padding: 0px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#boton li{
+	display: inline;
+}
+
+#boton li a{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 30px;
+	color: #192951;
+}
+
+#boton li a:hover{
+	color: #99B2E6;
+}
+
+.seccion1{
+	height: 380px;
+	background-image: url("../img/dance1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.studiot{
+	font-size: 50px;
+	margin-top: 50px;
+	text-align: left;
+	font-weight: bold;
+	color:#D4D5D6;
+}
+
+.studioi{
+	width: 170px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 10px;
+	text-align: left;
+	color: #C0C2C8;
+}
+
+.inscribete{
+	text-decoration: none;
+	font-size: 11px;
+	padding: 10px 25px;
+	border-radius: 3px;
+	background-color: #000C25;
+	font-weight: bold;
+}
+
+.seccion2{
+	width: 100%;
+	height: 300px;
+	background-image: url("../img/textura1.jpg");
+	background-repeat: repeat;
+}
+
+ .descripcion1{
+ 	margin-top: 30px;
+ 	text-align: center;
+ 	font-size: 19px;
+ }
+
+#decoracion1{
+ 	width: 90px;
+ 	height: 90px;
+ 	position: relative;
+ 	margin: 0 auto;
+ }
+
+.decoracion1{
+ 	width: 100%;
+ 	height: 100%;
+ }
+ 
+ .ofertac{
+ 	text-decoration: none;
+	font-size: 13px;
+	padding: 15px 55px;
+	border-radius: 3px;
+	background-color: #00194B;
+	font-weight: bold;
+ }
+
+ .centro{
+text-align: center; 		
+ }
+
+.seccion3{
+	width: 100%;
+	height: 300px;
+	background: url("../img/instructor1.jpg") top left no-repeat,
+	url("../img/instructor2.jpg") top right no-repeat;
+	background-size: 50%;
+	border: 1.5px solid #00194B;		
+
+}
+
+.centron{
+text-align: center; 		
+margin-top: 265px;
+}
+
+.ninstructores{
+	text-decoration: none;
+	font-size: 16px;
+	padding: 15px 130px;
+	background-color: #00194B;
+	font-weight: bold;
+}
+
+.seccion4{
+	width: 100%;
+	height: 230px;
+	background-image: url("../img/textura1.jpg");
+	background-repeat: repeat;
+}
+
+.frase{
+	margin-top: 65px;
+ 	text-align: center;
+ 	font-size: 33px;
+ 	font-style: italic;
+}
+
+.seccion5{
+	width: 100%;
+	height: 370px;
+	background-color:#00194B; 
+}
+
+ iframe {
+	width: 100%;
+	height: 250px;
+	margin-top: 65px;
+	float: right;
+}
+
+.mapainfo{
+	width: 360px;
+	font-size: 12px;
+	text-align: left;
+	color: #C0C2C8;	
+}
+
+.visitanos{
+	width: 360px;
+	margin-top: 40px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	color: #C0C2C8;	
+}
+
+.mt{
+	margin-top: 60px;
+}
+
+.w{
+	margin-top: 0px;
+}
+
+.seccion6{
+	width: 100%;
+	height: 450px;
+	background-image: url("../img/shoes.jpg");
+	background-repeat: no-repeat;
+	background-position: 90%; 
+}
+
+.formulariot{
+	width: 360px;
+	margin-top: 40px;
+	margin-bottom: 2%;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	color: #192951;	
+}
+
+.cajac{
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+
+.cajac2{
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+
+.input{
+	height: 40px;
+}
+
+.trans{
+	background: transparent;
+}
+
+textarea, input{
+	background-image: url("../img/email.png") no-repeat
+	scroll 0 0 transparent;
+	padding: 5px 5px 5px 25px;
+	width: 450px;
+	margin-bottom: 1px;
+}
+
+
+
+#submit_button{
+	text-decoration: none;
+	font-size: 22px;
+	color: #C0C2C8;
+	padding: 15px 173px;
+	background-color: #00194B;
+	border-radius: 4px;
+
+}
+
+footer{
+	width: 100%;
+	height: 80px;
+	background-color: #00194B; 
+	border-bottom: 7px solid black;
+}
+
+.copy{
+	font-size: 15px;
+	padding: 35px 50px;
+	color: #C0C2C8;
+	float: left;
+	position: relative;
+	right: 200px;
+}
+
+
+
+

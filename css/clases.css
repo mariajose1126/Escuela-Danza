@@ -1,0 +1,193 @@
+header{
+	width: 100%;
+	height: 130px;
+}
+
+.escuela{
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+ div.escuela a{
+	text-decoration: none;
+	color: #192951;
+}
+
+#boton{
+	padding: 0px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#boton li{
+	display: inline;
+}
+
+#boton li a{
+	text-decoration: none;
+	font-size: 15px;
+	padding: 30px;
+	color: #192951;
+}
+
+#boton li a:hover{
+	color: #99B2E6;
+}
+
+.seccion1{
+	width: 100%;
+	height: 1000px;
+	}
+
+.oferta{
+	color: #192951;
+	font-size: 20px;
+	font-weight: bold; 
+	text-align: center;
+	margin: 80px 0px 30px;
+}
+
+.msm{
+	background-image: url("../img/c1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 60%;
+	height: 350px;
+	border: 1px solid rgb(244, 244, 244);
+}
+
+
+.contenedorimg{
+	width: 100%;
+	height: 100%;
+}
+
+.contenedorimg1{
+	background-image: url("../img/c1.jpg");
+}
+
+.contenedorimg2{
+	background-image: url("../img/c2.jpg");
+}
+
+.contenedorimg3{
+	background-image: url("../img/c3.jpg");
+}
+
+.contenedorimg4{
+	background-image: url("../img/c4.jpg");
+}
+
+.contenedorimg5{
+	background-image: url("../img/c5.jpg");
+}
+
+.contenedorimg6{
+	background-image: url("../img/c6.jpg");
+}
+
+.margin{
+	margin-top: 15px;
+}
+
+.info2{
+	color:white;
+	font-size: 13px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+}
+
+.b{
+	margin: 0 auto;
+	margin-top: 120px;
+	background-color: black;
+	opacity: 0.6;
+	width: 90%;
+	height: 115px;
+	padding: 18px 5px;
+}
+
+.seccion6{
+	width: 100%;
+	height: 450px;
+	background-image: url("../img/shoes.jpg");
+	background-repeat: no-repeat;
+	background-position: 90%; 
+}
+
+.formulariot{
+	width: 360px;
+	margin-top: 40px;
+	margin-bottom: 2%;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	color: #192951;	
+}
+
+.cajac{
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+}
+
+.cajac2{
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+
+.input{
+	height: 40px;
+}
+
+.trans{
+	background: transparent;
+}
+
+textarea, input{
+	background-image: url("../img/email.png") no-repeat
+	scroll 0 0 transparent;
+	padding: 5px 5px 5px 25px;
+	width: 450px;
+	margin-bottom: 1px;
+}
+
+
+
+#submit_button{
+	text-decoration: none;
+	font-size: 22px;
+	color: #C0C2C8;
+	padding: 15px 173px;
+	background-color: #00194B;
+	border-radius: 4px;
+
+}
+
+footer{
+	width: 100%;
+	height: 80px;
+	background-color: #00194B; 
+	border-bottom: 7px solid black;
+}
+
+.copy{
+	font-size: 15px;
+	padding: 35px 50px;
+	color: #C0C2C8;
+	float: left;
+	position: relative;
+	right: 200px;
+}
+
+
+
+
